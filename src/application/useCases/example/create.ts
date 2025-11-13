@@ -1,7 +1,7 @@
 import type { Example } from "../../../domain/entities/Example.js"
-import type { IExampleDbRepository } from "../../../domain/repositories/example/db.js"
-import type { CreateExampleUseCaseDto } from "../../ports/example/dtos.js"
-import type { ICreateExampleUseCase } from "../../ports/example/interfaces.js"
+import type { IExampleDbRepository } from "../../../domain/repositories/example.db.js"
+import type { CreateExampleUseCaseDto } from "../../ports/example.dtos.js"
+import type { ICreateExampleUseCase } from "../../ports/example.interfaces.js"
 
 
 

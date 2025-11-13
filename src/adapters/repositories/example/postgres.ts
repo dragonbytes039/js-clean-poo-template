@@ -1,5 +1,5 @@
 import type { Example } from "../../../domain/entities/Example.js";
-import type { IExampleDbRepository } from "../../../domain/repositories/example/db.js";
+import type { IExampleDbRepository } from "../../../domain/repositories/example.db.js";
 
 
 export class examplePostgressRepository implements IExampleDbRepository {

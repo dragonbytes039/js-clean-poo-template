@@ -1,6 +1,6 @@
 
 import type { Request, Response, NextFunction } from "express"
-import type { ICreateExampleUseCase } from "../../../../application/ports/example/interfaces.js"
+import type { ICreateExampleUseCase } from "../../../application/ports/example.interfaces.js"
 
 export class CreateExampleController{
    

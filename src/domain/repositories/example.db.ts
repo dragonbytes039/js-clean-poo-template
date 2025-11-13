@@ -1,4 +1,4 @@
-import type { Example } from "../../entities/Example.js"
+import type { Example } from "../entities/Example.js"
 
 
 export interface IExampleDbRepository {
